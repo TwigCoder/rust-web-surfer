@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT"
 description = "A CLI tool that allows users to browse the web with features traditionally found in modern browsers, all through the terminal."
 readme = "README.md"
+documentation = "https://github.com/TwigCoder/rust-web-surfer"
 include = ["**/*.rs", "Cargo.toml", "Cargo.lock", "bookmarks.json", "README.md"]
 
 [dependencies]
